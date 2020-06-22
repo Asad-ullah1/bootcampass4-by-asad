@@ -12,7 +12,7 @@ export default function App() {
   return (
     <div className={`box ${colour? 'box2' : ''}`}>
       
-      <h1 morque="left">Assiament #4 by Asad</h1>
+      <h1>Assgianment #4 by Asad</h1>
       <h2>Colour {colour? 'Yellow' : 'blue'}</h2>
       <Greek counter={count} />
       
